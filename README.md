@@ -6,7 +6,8 @@
 [![Deep Learning](https://img.shields.io/badge/AI-Deep_Learning-red.svg)]()
 
 <p align="center">
-  <img alt="Logo See For Me" src="Insère_le_lien_vers_le_logo_de_ton_appli_si_tu_en_as_un" width="300" />
+  <img alt="Logo See For Me" src="https://github.com/user-attachments/assets/54359dde-f93e-4930-a2d2-4bde5b8140a9" width="300" />
+  <img width="500" height="500" alt="pROFESsIONAL STUDIO PHOTO (14)" src="https://github.com/user-attachments/assets/54359dde-f93e-4930-a2d2-4bde5b8140a9" />
 </p>
 
 ## 📝 Description du Projet (PFE)
@@ -41,17 +42,14 @@ Lors de nos expérimentations, le modèle **VGG-16 a surpassé le DenseNet-201**
 
 ## 📸 Démonstration
 
-Voici quelques exemples de descriptions générées par l'application :
+Voici la vidéo de démonstration complète:
 
-*   "Two young girls sitting on a lush green hillside"
-*   "Woman is water skiing on a lake"
-*   "Man riding a dirt bike on a trail"
 
-> **[Lien vers la vidéo de démonstration complète]** (Remplacer par le lien YouTube ou le chemin vers ta vidéo dans le repo)
+> 
 
 ## 📂 Contenu du Dépôt
-- `Rapport_et_Presentation/` : Contient le rapport final détaillé et la présentation PowerPoint du PFE.
-- `Demo/` : La vidéo de démonstration de l'application en action.
+- `Rapport finale.pdf et préesentation.pptx` : Contient le rapport final détaillé et la présentation PowerPoint du PFE.
+- `video_demo.mp4` : La vidéo de démonstration de l'application en action.
 
 ## 👥 Équipe du Projet
 - **Oumniya Moutaouakil**
