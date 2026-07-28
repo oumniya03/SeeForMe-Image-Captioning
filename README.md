@@ -7,7 +7,7 @@
 
 <p align="center">
   <img alt="Logo See For Me" src="https://github.com/user-attachments/assets/54359dde-f93e-4930-a2d2-4bde5b8140a9" width="300" />
-  <img width="500" height="500" alt="pROFESsIONAL STUDIO PHOTO (14)" src="https://github.com/user-attachments/assets/54359dde-f93e-4930-a2d2-4bde5b8140a9" />
+  
 </p>
 
 ## 📝 Description du Projet (PFE)
